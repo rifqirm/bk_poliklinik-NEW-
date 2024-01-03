@@ -5,3 +5,5 @@
 5. tempel database yang didownload ke database lokal
 6. terminal 'php artisan key:generate'
 7. terminal 'php artisan serve'
+
+test push
