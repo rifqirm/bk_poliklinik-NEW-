@@ -5,7 +5,7 @@
         <!-- breadcrumb -->
         <ol class="flex flex-wrap pt-1 mr-12 bg-transparent rounded-lg sm:mr-16">
           <li class="text-sm leading-normal">
-            <a class="opacity-50 text-slate-700" href="">Halaman</a>
+              <a class="opacity-50 text-slate-700" href="">Halaman</a>
           </li>
         </ol>
       </nav>
