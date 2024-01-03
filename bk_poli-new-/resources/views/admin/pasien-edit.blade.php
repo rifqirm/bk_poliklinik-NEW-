@@ -88,24 +88,24 @@
                         document.write(new Date().getFullYear() + ",");
                       </script>
                       dibuat oleh
-                      <a href="" class="font-semibold text-slate-700" target="_blank">Naufal Iksham</a>
+                      <a href="" class="font-semibold text-slate-700" target="_blank">Rifqi Ramadhani M</a>
                       untuk website yang lebih baik.
                     </div>
                   </div>
                   <div class="w-full max-w-full px-3 mt-0 shrink-0 lg:w-1/2 lg:flex-none">
                     <ul class="flex flex-wrap justify-center pl-0 mb-0 list-none lg:justify-end">
-                      <li class="nav-item">
-                        <a href="mailto:naufal.iksham@gmail.com" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Email</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="https://www.instagram.com/naufal_iksham/" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Instagram</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="https://www.facebook.com/naufaliksham/" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Facebook</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="https://api.whatsapp.com/send/?phone=6282243090750&text&type=phone_number&app_absent=0" class="block px-4 pt-0 pb-1 pr-0 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">WhatsApp</a>
-                      </li>
+                    <li class="nav-item">
+                    <a href="mailto:rifqirm15122001@gmail.com" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Email</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://www.instagram.com/rifqirm1512/" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Instagram</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://www.facebook.com/rifqi.r.m.54" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Facebook</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://api.whatsapp.com/send/?phone=6282237914066&text&type=phone_number&app_absent=0" class="block px-4 pt-0 pb-1 pr-0 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">WhatsApp</a>
+                  </li>
                     </ul>
                   </div>
                 </div>
